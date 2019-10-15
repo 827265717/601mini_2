@@ -59,4 +59,5 @@ Despite the benefits discussed above, PCI DSS compliance does not guarantee prot
 [5] Visa Inc., What to Do if Compromised (September 2013), (“At Visa’s discretion, an independent
 forensic investigation must be conducted by a Payment Card Industry Forensic Investigator.”)
 
-[6] Fede
+[6] Federal Trade Commission v. LifeLock Inc., No. CV-10-00530-PHX-JJT, 2016 WL 692048 (D. Ariz. Jan. 4,
+2016).
