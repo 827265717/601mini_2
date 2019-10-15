@@ -4,8 +4,11 @@ Cybersecurity is the protection of internet-connected systems, including hardwar
 
 The most frequently adopted frameworks should come as no surprise to security practitioners:
 1.PCI DSS (47%)
+
 2.ISO 27001/27002 (35%)
+
 3.CIS Critical Security Controls (32%)
+
 4.NIST Framework for Improving Critical Infrastructure Security (29%)
 ### PCI DSS
 #### Definition
