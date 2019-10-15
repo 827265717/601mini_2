@@ -3,12 +3,10 @@
 Cybersecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks. In a computing context, security comprises cybersecurity and physical security -- both are used by enterprises to protect against unauthorized access to data centers and other computerized systems. Information security, which is designed to maintain the confidentiality, integrity and availability of data, is a subset of cybersecurity.
 
 The most frequently adopted frameworks should come as no surprise to security practitioners:
+
 1.PCI DSS (47%)
-
 2.ISO 27001/27002 (35%)
-
 3.CIS Critical Security Controls (32%)
-
 4.NIST Framework for Improving Critical Infrastructure Security (29%)
 ### PCI DSS
 #### Definition
