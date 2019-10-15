@@ -27,14 +27,12 @@ Under PCI DSS’s requirement 3, merchants and financial institutions are implor
 Continuous monitoring and review are part of the process of reducing PCI DSS cryptography risks. This includes maintenance schedules and predefined escalation and recovery routines when security weaknesses are discovered.
 #### Pros and Cons
 Pros
-
 First, merchants typically are contractually obligated to comply with the PCI DSS. Many agreements,such as card processing agreements, expressly obligate the merchant to comply with the PCI DSS as wellas card network rules, which incorporate the PCI DSS. The individual payment brands, not the council,determine any noncompliance penalties that may be assessed. Merchants risk financial penalties for noncompliance and may even lose card network privileges.
 
 Second, PCI DSS is the first step toward complying with rapidly changing statutory requirements surrounding data privacy. For example, the Minnesota Plastic Security Card Act implements a modified version of the PCI DSS requirement that forbids entities to store certain data after the authorization of a transaction. Nevada has enacted a law that requires any data collector doing business in the state to
 comply specifically with the current version of the PCI DSS if the data collector accepts card payments in connection with the sale of goods or services. In these cases, companies that are already PCI DSS compliant do not have to take further action to adhere to these new laws.
 
 Cons
-
 Despite the benefits discussed above, PCI DSS compliance does not guarantee protection against data breaches, nor does it insulate a company from related expenses. In fact, several major retailers have suffered significant breaches while claiming PCI DSS compliance, and little is known about the impact of PCI DSS on data breach costs. One major limitation of the PCI DSS from a merchant perspective is that compliance does not protect a merchant from investigations and fines imposed by card networks in the event of a breach. For example, Visa requires merchants that process over six million Visa transactions per year to validate PCI DSS compliance by filing an annual report on compliance prepared by a third party qualified security assessor (QSA) (or an internal auditor in some circumstances), submitting an attestation of compliance form once per year, and conducting quarterly network scans. Despite these protocols, and even where PCI certification is in effect, it may be difficult to disprove an allegation of PCI DSS noncompliance if a breach occurs.
 ### References
 [1] Minn. Stat. § 325E.64.
