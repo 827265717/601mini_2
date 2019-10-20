@@ -9,7 +9,7 @@ Cybersecurity is the protection of internet-connected systems, including hardwar
 3.CIS Critical Security Controls (32%)
 
 4.NIST Framework for Improving Critical Infrastructure Security (29%)
-### PCI DSS
+## PCI DSS
 #### Definition
 The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards designed to ensure that ALL companies that accept, process, store or transmit credit card information maintain a secure environment.The PCI DSS applies to ANY organization, regardless of size or number of transactions, that accepts, transmits or stores any cardholder data.
 
@@ -47,7 +47,7 @@ comply specifically with the current version of the PCI DSS if the data collecto
 Cons
 
 Despite the benefits discussed above, PCI DSS compliance does not guarantee protection against data breaches, nor does it insulate a company from related expenses. In fact, several major retailers have suffered significant breaches while claiming PCI DSS compliance, and little is known about the impact of PCI DSS on data breach costs. One major limitation of the PCI DSS from a merchant perspective is that compliance does not protect a merchant from investigations and fines imposed by card networks in the event of a breach. For example, Visa requires merchants that process over six million Visa transactions per year to validate PCI DSS compliance by filing an annual report on compliance prepared by a third party qualified security assessor (QSA) (or an internal auditor in some circumstances), submitting an attestation of compliance form once per year, and conducting quarterly network scans. Despite these protocols, and even where PCI certification is in effect, it may be difficult to disprove an allegation of PCI DSS noncompliance if a breach occurs.
-### References
+## References
 [1] Minn. Stat. § 325E.64.
 
 [2] Nev. Rev. Stat. § 603A.215.
@@ -61,3 +61,12 @@ forensic investigation must be conducted by a Payment Card Industry Forensic Inv
 
 [6] Federal Trade Commission v. LifeLock Inc., No. CV-10-00530-PHX-JJT, 2016 WL 692048 (D. Ariz. Jan. 4,
 2016).
+## Recommendation
+For companies which desire to ensure the safety of their assets are being protected, PCI DSS is a perfect choice. Merchants typically are contractually obligated to comply with the PCI DSS. However, PCI DSS compliance does not guarantee protection against data
+breaches, nor does it insulate a company from related expenses, therefore, if merchants consider more about the cost of risks, PCI DSS is not recommended.
+## Review of other members' report
+#### Yumeng Pan
+This report discusses the reason why we need cybersecurity frameworks. She gives the examples of the cybersecurity framworks of Yahoo and Marriott Hotel, where users information like phone-numbers, names, date of birth, even bank accounts got breaches. Then the report introduces a dynamic network security framework.
+
+#### Qianqian Guo
+Firstly, the report introduce the definition, components and five main processes of cybersecurity. Then it discuss the pros and cons of four main framworks in the market. For different purposes and targetting users, these four frameworks differ from each other. For instance, PCI DSS forcuses more on safety of online and offline use of credit cards.
